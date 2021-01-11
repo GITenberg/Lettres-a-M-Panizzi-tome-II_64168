@@ -1,0 +1,39 @@
+_repo: Lettres-a-M-Panizzi-tome-II_64168
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mérimée, Prosper
+    alias: Merimee, Prosper
+    birthdate: 1803
+    deathdate: 1870
+    gutenberg_agent_id: '920'
+    url: http://www.gutenberg.org/2009/agents/920
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Prosper_Mérimée
+    - https://fr.wikipedia.org/wiki/Prosper_M%C3%A9rim%C3%A9e
+  editor:
+    agent_name: Fagan, Louis
+    alias: Fagan, Louis Alexander
+    birthdate: 1845
+    deathdate: 1903
+    gutenberg_agent_id: '35544'
+    url: http://www.gutenberg.org/2009/agents/35544
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Louis_Alexander_Fagan
+    - https://fr.wikipedia.org/wiki/Louis_Fagan
+description: ''
+gutenberg_issued: '2020-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64168'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Panizzi, Anthony, Sir, 1797-1879'
+- !lcsh 'Mérimée, Prosper, 1803-1870 -- Correspondence'
+- !lcc 'PQ'
+- GITenberg
+title: Lettres à M. Panizzi, tome II
+url: http://www.gutenberg.org/ebooks/64168
