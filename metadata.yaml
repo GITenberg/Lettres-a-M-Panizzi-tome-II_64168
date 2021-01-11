@@ -1,5 +1,8 @@
 _repo: Lettres-a-M-Panizzi-tome-II_64168
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64168-h/images/cover.jpg
 creator:
   author:
     agent_name: Mérimée, Prosper
@@ -22,6 +25,8 @@ creator:
     - https://en.wikipedia.org/wiki/Louis_Alexander_Fagan
     - https://fr.wikipedia.org/wiki/Louis_Fagan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64168#Lettres-a-M-Panizzi-tome-II
 gutenberg_issued: '2020-12-29'
 gutenberg_type: Text
 identifiers:
